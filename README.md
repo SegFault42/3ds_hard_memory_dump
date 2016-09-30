@@ -1,6 +1,12 @@
 # Module de lecture de nand pour nintendo 3ds
 
 
+##### Point a souder au dos de la carte mere 
+![N|Solid](https://github.com/SegFault42/3ds_memory_dump/blob/master/images/pinout_for_soldering.jpg?raw=true)
+
+##### CLK altrnatif
+![N|Solid](https://github.com/SegFault42/3ds_memory_dump/blob/master/images/alternate_clk.jpg?raw=true)
+
 ##### Connecteur souder a la carte mere de la console :
 ![N|Solid](https://github.com/SegFault42/3ds_memory_dump/blob/master/images/pinout%20motherboard.jpg?raw=true)
 
