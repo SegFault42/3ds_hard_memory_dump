@@ -2,7 +2,7 @@
 
 
 ##### Connecteur souder a la carte mere de la console :
-![N|Solid](https://github.com/SegFault42/3ds_memory_dump/blob/master/pinout%20motherboard.jpg?raw=true)
+![N|Solid](https://github.com/SegFault42/3ds_memory_dump/blob/master/images/pinout%20motherboard.jpg?raw=true)
 
 ##### Module de lecture de nand :
 ![N|Solid](https://github.com/SegFault42/3ds_memory_dump/blob/master/images/pinout%20sd_reader.jpg?raw=true)
