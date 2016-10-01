@@ -7,7 +7,7 @@
 ##### CLK altrnatif :
 ![N|Solid](https://github.com/SegFault42/3ds_memory_dump/blob/master/images/alternate_clk.jpg?raw=true)
 
-#### DAT0 en rouge et CMD en noir :
+#### CMD en rouge et DAT0 en noir :
 ![N|Solid](https://github.com/SegFault42/3ds_memory_dump/blob/master/images/DAT0%20and%20CMD.jpg?raw=true)
 
 ##### Connecteur souder a la carte mere de la console :
