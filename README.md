@@ -2,6 +2,7 @@
 
 
 ##### Point a souder au dos de la carte mere :
+Le DAT1, DAT2 et DAT3 sont uniquement a souder pour une meilleur vitesse de transfert.
 ![N|Solid](https://github.com/SegFault42/3ds_memory_dump/blob/master/images/pinout_for_soldering.jpg?raw=true)
 
 ##### CLK altrnatif :
