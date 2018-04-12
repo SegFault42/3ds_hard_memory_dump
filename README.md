@@ -1,5 +1,6 @@
 # Module de lecture de nand pour nintendo 3ds
 
+[![HitCount](http://hits.dwyl.io/SegFault42/https://github.com/SegFault42/3ds_hard_memory_dump.svg)](http://hits.dwyl.io/SegFault42/https://github.com/SegFault42/3ds_hard_memory_dump)
 
 ##### Point a souder au dos de la carte mere :
 Le DAT1, DAT2 et DAT3 sont uniquement a souder pour une meilleur vitesse de transfert.
